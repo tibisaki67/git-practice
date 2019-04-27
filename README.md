@@ -1,2 +1,3 @@
 # git-practice
-saki
+sakitest
+otameshi
